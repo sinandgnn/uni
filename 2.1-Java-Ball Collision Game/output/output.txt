@@ -1,0 +1,18 @@
+Game board:
+B W O H D
+G G R P Y
+G Y Y L P
+W L R D D
+L * Y W P
+
+Your movement is:
+L R R R U D D D U L
+
+Your output is:
+B W O H D
+G G R P Y
+G Y Y L P
+W X * D D
+L L X W P
+
+Score: 15
